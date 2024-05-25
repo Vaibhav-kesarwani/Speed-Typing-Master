@@ -14,8 +14,7 @@ Speed Typing Master is a simple yet effective Next.js application designed to he
 
 ## Demo
 
-[Screencast from 25-05-24 12:36:01 PM IST.webm](https://github.com/Vaibhav-kesarwani/Speed-Typing-Master/assets/116189379/21a3d8b2-c02c-4d9b-9038-080d0e34028a)
-
+[speed-typing-master.webm](https://github.com/Vaibhav-kesarwani/Speed-Typing-Master/assets/116189379/3e6cba5a-a8d6-4b89-96bb-65424d00dbd9)
 
 ## Installation
 
