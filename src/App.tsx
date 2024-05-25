@@ -15,8 +15,7 @@ const App = () => {
       <CountdownTimer timeLeft={timeLeft} />
       <WordsContainer>
         <GeneratedWords key={words} words={words} />
-        {/* User typed characters will be overlayed over the generated words */}
-        <UserTypings
+        <UserTypings     // initial={{ opacity: 0 }}
           className="absolute inset-0"
           words={words}
           userInput={typed}
